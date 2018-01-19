@@ -1,0 +1,23 @@
+commit ad3b46ebe268adf5404afed2c742e2fb85bf6bde
+Author: rllanos <rodrigo.llanos.martinez@gmail.com>
+Date:   Fri Jan 19 12:53:43 2018 +0100
+
+    Añadido pulsador con texto y salto de linea
+
+commit dbb1c840f6777195f5dedd4e1889ce821e566e59
+Author: rllanos <rodrigo.llanos.martinez@gmail.com>
+Date:   Fri Jan 19 12:47:36 2018 +0100
+
+    añadido br mal
+
+commit 84cbc6b3442f8fa9f308cfde805ac914b332c0ed
+Author: rllanos <rodrigo.llanos.martinez@gmail.com>
+Date:   Fri Jan 19 12:39:43 2018 +0100
+
+    añadido boton y select
+
+commit 682ed9c6a69b0e3d7d18715a17bffd74cbcffec3
+Author: rllanos <rodrigo.llanos.martinez@gmail.com>
+Date:   Fri Jan 19 12:33:19 2018 +0100
+
+    Commit inicial
